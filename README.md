@@ -1,3 +1,3 @@
 # RI-LVL
 
-![fig](https://github.com/hebrewsnabla/RI-LVL/raw/main/test.png)
+![fig](https://github.com/hebrewsnabla/RI-LVL/blob/main/test.png)
