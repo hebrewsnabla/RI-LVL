@@ -3,11 +3,14 @@
 ## speedup strategies in low scaling MP2/CC
 * sparsity (locality) of MO integral
   + PNO, DLPNO
+  + CIM
+  + FNO
 * reduce integral dimension
   + RI-V
   + THC
 * sparsity (locality) of AO integral
-  + LVL
+  + Schwarz
+  + (RI-)LVL
 
 ## RI-LVL
 
